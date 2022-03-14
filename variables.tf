@@ -1,3 +1,9 @@
+TF_VAR_cluster_version: 1.20.
+TF_VAR_region: eu-west-1.
+TF_VAR_jx_git_url: https://github.com/shanmukhavsv/jenkinsaws.git
+TF_VAR_jx_bot_username: ishanmukhayadav
+
+
 // ----------------------------------------------------------------------------
 // Optional Variables
 // ----------------------------------------------------------------------------
